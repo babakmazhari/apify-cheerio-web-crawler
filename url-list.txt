@@ -1,0 +1,7 @@
+# list the urls to crawl
+# one url per line
+# if the provided string is not a valid url, it will be ignored with an DEBUG level message logged in the console
+
+//https://www.sedna.com
+https://www.w3.org
+invalid url here!!!
