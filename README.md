@@ -16,6 +16,6 @@ The crawler recursively crawls the pages within the same domain and stores url, 
 
 ### Storage
 
-The crawling data extracted for every url will be stored in a separate json file under apify_storage/datasets
-You can see additional information on handled and pending requests under apify_storage/request-queues
-The overall statistics about the application execution is provided under apify_storage/key_value_stores
+The crawling data extracted for every url will be stored in a separate json file under apify_storage/datasets.
+You can see additional information on handled and pending requests under apify_storage/request-queues.
+The overall statistics about the application execution is provided under apify_storage/key_value_stores.
